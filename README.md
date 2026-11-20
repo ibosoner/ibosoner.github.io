@@ -1,1 +1,1 @@
-# ibosoner.github.io
+Life Assistants uygulaması
